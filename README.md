@@ -1,0 +1,1 @@
+AkaCommon is a library used as a base for MAP and mPulse mobile SDKs. It holds the common functionalities for both SDKs. Use of this SDK is governed by the Mobile Application Performance (MAP), Predictive Content Delivery (PCD) and WatchNow SDK License Agreement found at https://www.akamai.com/product/licenses .
